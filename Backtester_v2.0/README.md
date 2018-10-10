@@ -1,0 +1,2 @@
+# AltSim
+Altcoin Advisors
